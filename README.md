@@ -1,7 +1,7 @@
 # DCNN: Deformable Convolutional Network for Image Classification on the COCO Dataset
 
 
-![Deformable Convolution vs Standard Convolution](Screenshot 2023-12-08 133454.png)
+![img](Screenshot 2023-12-08 133454.png)
 
 This repository contains the code and experiments conducted for the Deep Learning Graduate Course project at the Electrical Engineering Department, Sharif University of Technology. The focus of this project is to explore the application of Deformable Convolutions for image classification on the COCO dataset.
 
